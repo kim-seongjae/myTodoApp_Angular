@@ -1,0 +1,67 @@
+- 1 week
+angular-cli setup
+WebStorm setup
+JavaScript Array execise
+angular Routing & navigation setup
+  router-outlet
+Page setup
+  view design with bootstrap css framework
+  navbar, form-control,,,
+
+- 2 week
+javascript core
+  글로벌변수가 되는 3가지 경우
+  객체생성방법: literal and 생성자 함수
+  this의 의미 이해하기
+javascript pattern
+  글로벌변수를 줄이는 방법
+  namespace pattern
+  IIFE
+javascript dom
+  자식노드 찾기
+  자식노드추가하기
+  모든 자식노드 삭제하기
+jquery
+
+- 3 week
+XmlHttpRequest
+jquery Ajax
+W3C http standard : http
+postman
+REST API
+other http client: Retrofit
+
+- 4 week
+angular architecture review
+html5 Form API review
+리터럴객체를 TodoVO 객체로 전환하기
+  생성자 만들기,
+angular form 적용해보기
+  ngNativeValidate 란?
+  submit 이벤트는 언제 적용되는가?
+  ngStyle 바인딩과 class 바인딩을 사용하여 취소선 구현하기
+date 표현을 pipe로 표현하기
+버튼 클릭 효과 sass로 구현하기
+   $ 변수 사용하기
+   darken 내장 함수 사용하기
+   nested 사용
+   & 레퍼런스 연산자 사용
+   active 수도 클래스 구현
+   transform 으로 translate 하기
+할일 추가 및 삭제를 angular 애니메이션을 사용하여 구현하기
+directive 적용하기
+
+http
+service
+
+- 5 week
+material design + 반응형웹
+login 화면 구현, 인증
+네이버 아이디 로그인
+
+- 6 week
+네이버 댓글 구현
+파일업로드
+
+- 7week
+챗팅 구현(mqtt)
